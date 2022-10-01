@@ -10,7 +10,7 @@
 <a href="https://blog.csdn.net/weixin_42386609/">
   <img alt="rongzhiy | CSDN" width="50px" src="https://github.com/rongzhiy/rongzhiy/blob/main/static/csdn.jpeg"/>
 </a>
-<a href="https://www.zhihu.com/people/a-ze-70-76">
+<a href="https://www.zhihu.com/people/a-ze-70-76/">
   <img alt="rongzhiy's zhihu" width="50px" src="https://github.com/rongzhiy/rongzhiy/blob/main/static/zhihu.jpeg" />
 </a>
 <br>
