@@ -27,11 +27,6 @@
 <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rongzhiy&count_private=true&show_icons=true"/>
 
 
-### 🛠 &nbsp;Tech Stack
-
-
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 GitHub: rongzhiy (Why not follow me? 👀)
 <a href="mailto:rongzhiy2735@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rongzhiy2735@gmail.com-blue?style=flat-square&logo=gmail"></a>
