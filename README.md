@@ -31,8 +31,7 @@
 ![Java](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=python)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
