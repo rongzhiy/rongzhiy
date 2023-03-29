@@ -28,9 +28,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=python)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+
 
 
 
