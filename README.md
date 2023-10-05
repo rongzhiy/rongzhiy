@@ -20,6 +20,7 @@ Here are my personal blog : [https://rongzhiy.github.io/](https://rongzhiy.githu
 
 - 🔭 I’m currently studying on UESTC.
 - 🌱 I’m currently learning ML/DL.
+- 👨🏿‍💻 I'm a full-stack developer programmer. 
 - 👯 I’m looking to collaborate on network security.
 - 🤔 I’m looking for help with network security and Deep Learning.
 
