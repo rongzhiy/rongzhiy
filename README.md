@@ -21,7 +21,6 @@
 - 🌱 I’m currently learning ML/DL.
 - 👨🏿‍💻 I'm a full-stack developer programmer. 
 - 👯 I’m looking to collaborate on network security.
-- 🤔 I’m looking for help with network security and Deep Learning.
 
 ### ⭐️ &nbsp;Github Star
 
@@ -29,8 +28,6 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-GitHub: rongzhiy (Why not follow me? 👀)
-
 <a href="mailto:rongzhiy2735@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rongzhiy2735@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
