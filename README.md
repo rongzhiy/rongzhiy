@@ -17,7 +17,6 @@
 </p> -->
 
 
-- 🔭 I’m currently studying on UESTC.
 - 🌱 I’m currently learning ML/DL.
 - 👨🏿‍💻 I'm a full-stack developer programmer. 
 - 👯 I’m looking to collaborate on network security.
